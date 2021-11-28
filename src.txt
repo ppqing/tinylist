@@ -389,8 +389,6 @@ x-art.com
 ||telesco.pe
 !!!---IP---
 
-!!---HK01---
-||hk01.com
 
 !##############Tiny List End#################
 !##############Whitelist Start###############
