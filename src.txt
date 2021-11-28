@@ -429,6 +429,9 @@ x-art.com
 @@|http://ime.baidu.jp
 !##############Whitelist End#################
 !##############Custom Rules Start#################
+!!---This list---
+||raw.githubusercontent.com
+
 !!---Telegram---
 !!!---Domain---
 ||t.me
