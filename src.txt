@@ -377,19 +377,6 @@ x-art.com
 ||xvideos.com
 ||youporn.com
 !##############General List End#################
-
-!!---Telegram---
-!!!---Domain---
-||t.me
-||updates.tdesktop.com
-||telegram.dog
-||telegram.me
-||telegram.org
-.telegramdownload.com
-||telesco.pe
-!!!---IP---
-
-
 !##############Tiny List End#################
 !##############Whitelist Start###############
 @@||aliyun.com
@@ -440,6 +427,20 @@ x-art.com
 @@||youdao.com
 @@||zhongsou.com
 @@|http://ime.baidu.jp
-
 !##############Whitelist End#################
+!##############Custom Rules Start#################
+!!---Telegram---
+!!!---Domain---
+||t.me
+||updates.tdesktop.com
+||telegram.dog
+||telegram.me
+||telegram.org
+.telegramdownload.com
+||telesco.pe
+!!!---IP---
+
+!!---HK01---
+||hk01.com
+!##############Custom Rules End#################
 !---------------------EOF--------------------
